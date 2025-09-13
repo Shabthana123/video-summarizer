@@ -21,6 +21,6 @@ The app also provides a **Streamlit web interface** for easy uploading and summa
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/<your-username>/video-summarizer.git
+git clone https://github.com/Shabthana123/video-summarizer.git
 cd video-summarizer
 ```
